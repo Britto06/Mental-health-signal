@@ -1,0 +1,15 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\britto\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+  "python.pythonPath": "C:\\Users\\britto\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+  "python.analysis.pythonPath": "C:\\Users\\britto\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+  "python.analysis.extraPaths": [
+    ".",
+    "d:\\Mental health signal"
+  ],
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.useLibraryCodeForTypes": true,
+  "python.analysis.diagnosticMode": "workspace",
+  "python.analysis.ignore": ["**/__pycache__/**"],
+  "python.envFile": "${workspaceFolder}/.env"
+}

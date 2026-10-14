@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+pandas
+numpy
+joblib
+pydantic
+email-validator
+sqlalchemy
+apscheduler
+twilio
+pymongo
+python-dotenv

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mental Health Signal
 
 A student wellness analytics app that predicts a mental health score (0–10) based on daily habits like screen time, sleep, stress, and physical activity.
@@ -132,3 +133,6 @@ Run the complete automated test suite (10/10 assertions):
 ```powershell
 .venv\Scripts\python.exe test_system.py
 ```
+=======
+# Mental-health-signal
+>>>>>>> bb85f0a2a2dadbb0d6584ac24e80a3b93c3bdebe
